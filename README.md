@@ -1,5 +1,6 @@
 # excel_food_mart
 
+ DA- food_mart contains Dashboard (excel file)
 
 EDA   Utillising Advanced excel , Power Query and Power Pivot 
 
@@ -46,6 +47,8 @@ transaction ( made by appending tables transaction -1997 and  transaction -1998 
   6. SWITCH() Evaluates an expression against a list of values and returns one of multiple possible result expressions
 
    
+   
+  
 
 
 
